@@ -1,0 +1,6 @@
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\bin\Debug\Entities.dll
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\bin\Debug\Entities.pdb
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\obj\Debug\Entities.dll
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\Entities\obj\Debug\Entities.pdb

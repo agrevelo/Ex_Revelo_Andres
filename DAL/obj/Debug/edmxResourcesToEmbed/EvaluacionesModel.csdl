@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Entidad_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Evaluaciones">
+    <Key>
+      <PropertyRef Name="EvaluacionID" />
+    </Key>
+    <Property Name="EvaluacionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CursoID" Type="Int32" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="PuntuacionMaxima" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Entidad_dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Evaluaciones" EntityType="Self.Evaluaciones" />
+  </EntityContainer>
+</Schema>

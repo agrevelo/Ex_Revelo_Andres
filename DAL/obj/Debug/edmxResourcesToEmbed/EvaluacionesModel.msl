@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Entidad_dbModelStoreContainer" CdmEntityContainer="Entidad_dbEntities">
+    <EntitySetMapping Name="Evaluaciones">
+      <EntityTypeMapping TypeName="Entidad_dbModel.Evaluaciones">
+        <MappingFragment StoreEntitySet="Evaluaciones">
+          <ScalarProperty Name="EvaluacionID" ColumnName="EvaluacionID" />
+          <ScalarProperty Name="CursoID" ColumnName="CursoID" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="PuntuacionMaxima" ColumnName="PuntuacionMaxima" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

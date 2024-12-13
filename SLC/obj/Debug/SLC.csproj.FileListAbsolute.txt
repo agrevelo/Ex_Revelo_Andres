@@ -1,0 +1,9 @@
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\bin\Debug\SLC.dll
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\bin\Debug\SLC.pdb
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\bin\Debug\Entities.dll
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\bin\Debug\Entities.pdb
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\obj\Debug\SLC.dll
+C:\Users\Andres\Desktop\Universidad ESPE\Septimo Semestre\Distribuidas\Examen\Ex_Revelo_Andres\SLC\obj\Debug\SLC.pdb
